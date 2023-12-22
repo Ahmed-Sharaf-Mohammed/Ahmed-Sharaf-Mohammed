@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h4 align="center">Ahmed's Visitors count 👀😁</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{Ahmed-Sharaf-Mohammed}/count.svg" alt="Ahmed-Sharaf-Mohammed :: Visitor's Count" /></p>
 
 <p align="center">
