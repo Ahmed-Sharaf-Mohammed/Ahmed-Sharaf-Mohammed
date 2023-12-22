@@ -24,3 +24,10 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ahmed-Sharaf-Mohammed&layout=compact&exclude_lang=java+r&theme=radical" />
 </a>
 </p>
+
+<!--profile visit count-->
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=Ahmed-Sharaf-Mohammed&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
