@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://github.com/Ahmed-Sharaf-Mohammed">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sehamanter1&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sehamanter1&layout=compact&exclude_lang=java+r&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ahmed-Sharaf-Mohammed&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ahmed-Sharaf-Mohammed&layout=compact&exclude_lang=java+r&theme=radical" />
 </a>
 </p>
