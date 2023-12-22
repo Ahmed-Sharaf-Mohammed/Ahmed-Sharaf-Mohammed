@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center"><img src="https://profile-counter.glitch.me/{Ahmed-Sharaf-Mohammed}/count.svg" alt="Ahmed-Sharaf-Mohammed :: Visitor's Count" /></p>
+
 <p align="center">
 <a href="https://github.com/Ahmed-Sharaf-Mohammed">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ahmed-Sharaf-Mohammed&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
